@@ -1,3 +1,4 @@
 foobar
 
-(remote) first file change!
+(local) first file change!
+(remote) second change!
